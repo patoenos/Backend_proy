@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"timestamp": "2022-07-07T02:24:58.792Z",
+		"productos": [
+			{
+				"id": 2,
+				"timestamp": "2022-07-07T02:17:40.195Z",
+				"title": "Pedales",
+				"description": "Pedales Sim Racer",
+				"code": "P01",
+				"price": 1800,
+				"thumbnail": "https://th.bing.com/th/id/OIP.Azrxa5kuk8T8T1qQjIzOQgHaHa?pid=ImgDet&rs=1",
+				"stock": 3
+			}
+		]
+	}
+]

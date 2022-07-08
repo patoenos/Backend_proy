@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"timestamp": "2022-07-07T02:17:06.173Z",
+		"title": "Volante",
+		"description": "Volante de Sim Racer",
+		"code": "V01",
+		"price": 2000,
+		"thumbnail": "https://gt3.es/wp-content/uploads/2018/04/volantes-simracing-1024x683.jpg",
+		"stock": 1
+	},
+	{
+		"id": 2,
+		"timestamp": "2022-07-07T02:17:40.195Z",
+		"title": "Pedales",
+		"description": "Pedales Sim Racer",
+		"code": "P01",
+		"price": 1800,
+		"thumbnail": "https://th.bing.com/th/id/OIP.Azrxa5kuk8T8T1qQjIzOQgHaHa?pid=ImgDet&rs=1",
+		"stock": 3
+	},
+	{
+		"id": 3,
+		"timestamp": "2022-07-07T02:24:09.410Z",
+		"title": "Asientos",
+		"description": "Asiento Sim Racer",
+		"code": "A01",
+		"price": 4600,
+		"thumbnail": "https://th.bing.com/th/id/OIP.QV__ZzNlx7d1nl0dWuX3oAHaJc?pid=ImgDet&rs=1",
+		"stock": 2
+	},
+	{
+		"id": 4,
+		"timestamp": "2022-07-08T03:57:10.221Z",
+		"title": "",
+		"description": "",
+		"code": "",
+		"price": 0,
+		"thumbnail": "",
+		"stock": 0
+	},
+	{
+		"id": 5,
+		"timestamp": "2022-07-08T03:58:04.883Z",
+		"title": "cockpit",
+		"description": "aramco cockpit",
+		"code": "CO01",
+		"price": 10000,
+		"thumbnail": "https://i0.wp.com/enkosi.com.au/wp-content/uploads/2020/05/Sim-with-screens-1024x768.jpg",
+		"stock": 3
+	},
+	{
+		"id": 6,
+		"timestamp": "2022-07-08T04:00:47.127Z",
+		"title": "Invento3",
+		"description": "Invento3",
+		"code": "IN01",
+		"price": 5000,
+		"thumbnail": "https://i0.wp.com/enkosi.com.au/wp-content/uploads/2020/05/Sim-with-screens-1024x768.jpg",
+		"stock": 3
+	}
+]
